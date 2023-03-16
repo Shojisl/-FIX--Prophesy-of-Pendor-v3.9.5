@@ -1,0 +1,11 @@
+INSTRUÇÕES DE INSTALAÇÃO:
+
+Para instalar a tradução, siga os seguintes procedimentos:
+1) Copie as pastas Data, languages e Textures e cole no diretório do mod Prophesy of Pendor.
+2) Mescle as pastas e substitua os arquivos existentes.
+3) No menu inicial, mude a linguagem do jogo para PORTUGUÊS.
+
+Pronto! Agora é só jogar. Divirta-se!
+
+Att.
+Cláudio Vieira & Evandro Neto
